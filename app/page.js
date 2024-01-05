@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div style={{ margin: 99 , backgroundColor: 'white'}}>
       <div style={{ margin: 99 , backgroundColor: 'white', padding: 99}}>
-        <QRCode value="00020101021238570010A000000727012700069704220113VQRQ000171tqk0208QRIBFTTA5303704540450005802VN62220818TTWJP128  SANPHAM16304FABC" />
+        <QRCode value="00020101021238570010A000000727012700069704220113VQRQ000171tme0208QRIBFTTA5303704540450005802VN62200816TTIVHZLQ  BAOBAO630490B7" />
       </div>
     </div>
   )
